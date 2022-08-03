@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "start"
+    "test": "start",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/Stargazing-11/Dsa-Progress/issues"
   },
-  "homepage": "https://github.com/Stargazing-11/Dsa-Progress#readme"
+  "homepage": "https://github.com/Stargazing-11/Dsa-Progress#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.0"
+  }
 }
