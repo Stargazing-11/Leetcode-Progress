@@ -1,0 +1,20 @@
+{
+  "name": "dsa-progress",
+  "version": "1.0.0",
+  "description": "a simple application to get your current progress on Data structures and algorithms",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stargazing-11/Dsa-Progress.git"
+  },
+  "author": "Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stargazing-11/Dsa-Progress/issues"
+  },
+  "homepage": "https://github.com/Stargazing-11/Dsa-Progress#readme"
+}
